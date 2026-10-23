@@ -110,32 +110,7 @@ tuyendung_app/
 
 ---
 
-## 8. Cài đặt và chạy
 
-**Bước 1.** Clone repo:
-
-```bash
-git clone https://github.com/[tên-tài-khoản]/[tên-repo].git
-cd [tên-repo]
-```
-
-**Bước 2.** Cài thư viện:
-
-```bash
-pip install -r requirements.txt
-```
-
-> Trên Linux, nếu thiếu Tkinter: `sudo apt install python3-tk`
-
-**Bước 3.** Chạy ứng dụng:
-
-```bash
-python main.py
-```
-
-File cơ sở dữ liệu `tuyendung.db` tự được tạo ở lần chạy đầu.
-
-### Tài khoản mặc định
 
 | Tên đăng nhập | Mật khẩu | Vai trò |
 |---------------|----------|---------|
