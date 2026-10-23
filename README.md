@@ -97,15 +97,11 @@ tuyendung_app/
 ├── README.md
 ├── PHANCONG.md
 └── pages/
-    ├── __init__.py
+    ├── __
     ├── login.py         # Màn hình đăng nhập
-    ├── dashboard.py     # Tổng quan, thống kê, biểu đồ
-    ├── positions.py     # Yêu cầu tuyển dụng, giao việc
-    ├── job_posts.py     # Đăng tin tuyển dụng
-    ├── slots.py         # Theo dõi slot Trống / Đã tuyển
-    ├── candidates.py    # Hồ sơ ứng viên, nộp hồ sơ
-    ├── review.py        # Duyệt hồ sơ
-    └── interviews.py    # Phỏng vấn, nhập kết quả
+    ├──
+    ..........................
+    
 ```
 
 ---
