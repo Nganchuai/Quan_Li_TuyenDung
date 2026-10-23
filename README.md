@@ -15,9 +15,7 @@
 | 1 | [Họ tên nhóm trưởng] | [MSSV] | Nhóm trưởng | [@username] |
 | 2 | [Họ tên thành viên 2] | [MSSV] | [Vai trò] | [@username] |
 | 3 | [Họ tên thành viên 3] | [MSSV] | [Vai trò] | [@username] |
-| 4 | [Họ tên thành viên 4] | [MSSV] | [Vai trò] | [@username] |
 
-Chi tiết phân công nhiệm vụ xem tại file [`PHANCONG.md`](PHANCONG.md).
 
 ---
 
