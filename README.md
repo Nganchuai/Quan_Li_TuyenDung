@@ -16,7 +16,7 @@
 | 2 | [Họ tên thành viên 2] | [MSSV] | [Vai trò] | [@username] |
 | 3 | [Họ tên thành viên 3] | [MSSV] | [Vai trò] | [@username] |
 
-Chi tiết phân công nhiệm vụ xem tại file PHANCONG.md.
+Chi tiết phân công nhiệm vụ xem tại file [`PHANCONG.md`](PHANCONG.md).
 ---
 
 ## 2. Giới thiệu đề tài
