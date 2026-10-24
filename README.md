@@ -13,7 +13,7 @@
 | STT | Họ và tên | MSSV | Vai trò | Tài khoản GitHub |
 |:---:|-----------|------|---------|------------------|
 | 1 | Lưu Trọng Ngân | 2001240290 | Nhóm trưởng | Nganchuai |
-| 2 | [Họ tên thành viên 2] | [MSSV] | [Vai trò] | [@username] |
+| 2 | Nguyễn Thế Bảo | 2044240029 | Thành viên | nguyenthebaoa7pbc2021-coder |
 | 3 | [Họ tên thành viên 3] | [MSSV] | [Vai trò] | [@username] |
 
 Chi tiết phân công nhiệm vụ xem tại file [`Phancong.md`](Phancong.md).
