@@ -12,7 +12,7 @@
 
 | STT | Họ và tên | MSSV | Vai trò | Tài khoản GitHub |
 |:---:|-----------|------|---------|------------------|
-| 1 | [Họ tên nhóm trưởng] | [MSSV] | Nhóm trưởng | [@username] |
+| 1 | Lưu Trọng Ngân | 2001240290 | Nhóm trưởng | Nganchuai |
 | 2 | [Họ tên thành viên 2] | [MSSV] | [Vai trò] | [@username] |
 | 3 | [Họ tên thành viên 3] | [MSSV] | [Vai trò] | [@username] |
 
