@@ -9,7 +9,7 @@
 | STT | Họ và tên | Tài khoản GitHub | Vai trò |
 |---|---|---|---|
 | TV1 | Lưu Trọng Ngân | Nganchuai| Nhóm trưởng |
-| TV2 | [Họ tên TV2] | [github TV2] | Thành viên |
+| TV2 | Nguyễn Thế Bảo | nguyenthebaoa7pbc2021-coder | Thành viên |
 | TV3 | [Họ tên TV3] | [github TV3] | Thành viên |
 
 
