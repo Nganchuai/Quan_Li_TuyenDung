@@ -55,7 +55,7 @@ PHỎNG VẤN → (Không đạt: Từ chối | Đạt: Tuyển dụng thành c�
 
 ---
 
-## 4. Tính năng đã hoàn thành
+## 4. Tính năng cần (phải) hoàn thành
 
 - Đăng nhập, phân quyền theo vai trò (mật khẩu được băm bằng PBKDF2 + salt)
 - Tạo yêu cầu tuyển dụng, tự sinh SLOT, giao cho nhân viên phụ trách
