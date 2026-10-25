@@ -2,7 +2,7 @@
 Đồ án PyThon Quản lí tuyển dụng
 # HR Flow — Hệ thống Quản Lý Tuyển Dụng
 
-> **Bài tập lớn — Lớp Python 04 — Nhóm [SỐ NHÓM]**
+> **Bài tập lớn — Lớp Python 04 — Nhóm 7**
 
 Ứng dụng desktop quản lý quy trình tuyển dụng của doanh nghiệp, viết bằng **Python**, giao diện **CustomTkinter**, dữ liệu lưu cục bộ bằng **SQLite**.
 
@@ -14,7 +14,7 @@
 |:---:|-----------|------|---------|------------------|
 | 1 | Lưu Trọng Ngân | 2001240290 | Nhóm trưởng | Nganchuai |
 | 2 | Nguyễn Thế Bảo | 2044240029 | Thành viên | nguyenthebaoa7pbc2021-coder |
-| 3 | [Họ tên thành viên 3] | [MSSV] | [Vai trò] | [@username] |
+| 3 | Hồ Minh Chiến | 2001240051 | Thành Viên | Minh Chien    |
 
 Chi tiết phân công nhiệm vụ xem tại file [`Phancong.md`](Phancong.md).
 ---
